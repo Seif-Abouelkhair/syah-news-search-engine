@@ -124,7 +124,7 @@ Arabic queries are translated into English before retrieval, allowing users to s
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
