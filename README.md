@@ -168,5 +168,3 @@ Zewail City of Science, Technology and Innovation
 Interested in Artificial Intelligence, Machine Learning, Information Retrieval, and Natural Language Processing.
 
 ---
-
-## ⭐ If you found this project interesting, consider giving it a star!
